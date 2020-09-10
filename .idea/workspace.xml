@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1473d1d-911e-40ab-bdcd-4582fb1abe50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.1/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hIjSD2XYGTYHGaE8T03Aqk9wGj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="GolangCodingChallenge" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <output_directory value="bin" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="GolangCodingChallenge" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="398" key="#GOROOT" timestamp="1599705645846">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="520" y="398" key="#GOROOT/0.23.1440.877@0.23.1440.877" timestamp="1599705645846" />
+    <state x="184" y="123" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599706420559">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1599706420559" />
+    <state x="552" y="365" key="Github.ShareDialog" timestamp="1599713233361">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="552" y="365" key="Github.ShareDialog/0.23.1440.877@0.23.1440.877" timestamp="1599713233361" />
+    <state x="509" y="173" key="Github.UntrackedFilesDialog" timestamp="1599712614309">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="509" y="173" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1599712614309" />
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom" timestamp="1599712632059">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599712632059" />
+    <state width="1358" height="270" key="GridCell.Tab.0.center" timestamp="1599712632059">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1599712632059" />
+    <state width="1358" height="270" key="GridCell.Tab.0.left" timestamp="1599712632058">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1599712632058" />
+    <state width="1358" height="270" key="GridCell.Tab.0.right" timestamp="1599712632059">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1599712632059" />
+    <state width="1358" height="270" key="GridCell.Tab.1.bottom" timestamp="1599712632060">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599712632060" />
+    <state width="1358" height="270" key="GridCell.Tab.1.center" timestamp="1599712632060">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1599712632060" />
+    <state width="1358" height="270" key="GridCell.Tab.1.left" timestamp="1599712632059">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1599712632059" />
+    <state width="1358" height="270" key="GridCell.Tab.1.right" timestamp="1599712632060">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1599712632060" />
+    <state x="228" y="100" key="SettingsEditor" timestamp="1599713369031">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="228" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1599713369031" />
+    <state width="700" height="418" key="XDebugger.FullValuePopup" timestamp="1599711699532">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="700" height="418" key="XDebugger.FullValuePopup/0.23.1440.877@0.23.1440.877" timestamp="1599711699532" />
+  </component>
+</project>
